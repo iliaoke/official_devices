@@ -1,0 +1,9 @@
+Highlights & Device Specific Changes:
+Build type: user
+Device name: Xiaomi 12S
+Device codename: mayfly
+Device maintainer: liaoke123
+
+=×=×= 30 / 07 / 2025 =×=×=
+* Synced with Latest RisingOS Revived sources v8.0 (Zorya)
+
