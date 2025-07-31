@@ -5,7 +5,7 @@
                         "oem": "Xiaomi",
                         "device": "mayfly",
                         "filename": "RisingOS_Revived-8.0-250731-1757-GAPPS-UNOFFICIAL-mayfly-ota.zip",
-                        "download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/mayfly/RisingOS_Revived-8.0-250731-1757-GAPPS-UNOFFICIAL-mayfly-ota.zip/download",
+                        "download": "https://sourceforge.net/projects/mayfly-rom/files/risingos/RisingOS_Revived-8.0-250731-1757-GAPPS-UNOFFICIAL-mayfly-ota.zip/download",
                         "timestamp": 1753954935,
                         "md5": "1c9f2ccffe3075eab21e5c796fde6471",
                         "sha256": "8812304e5b1979627e8dbba075fd6334a7ea235d62d7cbf3e5899ca539a9b0b8",
@@ -13,7 +13,7 @@
                         "version": "8.0-Zorya",
                         "buildtype": "STABLE",
                         "forum": "https://t.me/Xiaomi12sDiscussion",
-                        "recovery": "https://sourceforge.net/projects/recovery-for-xiaomi-devices/files/mayfly/twrp-3.7.1_12-v9.0_A15-mayfly-skkk.img/download",
+                        "recovery": "https://sourceforge.net/projects/mayfly-rom/files/%5BREC%5D3.7.1_12-Mi12S_v9.0_A15-mayfly-skkk.img/download",
                         "telegram": "https://t.me/liaoke123"
                 }
         ]
