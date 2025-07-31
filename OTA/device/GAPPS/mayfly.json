@@ -1,7 +1,7 @@
 {
         "response": [
                 {
-                        "maintainer": "KernelPanix",
+                        "maintainer": "liaoke",
                         "oem": "Xiaomi",
                         "device": "mayfly",
                         "filename": "RisingOS_Revived-8.0-250731-1757-GAPPS-UNOFFICIAL-mayfly-ota.zip",
@@ -12,7 +12,7 @@
                         "size": 3050476936,
                         "version": "8.0-Zorya",
                         "buildtype": "STABLE",
-                        "forum": "https://t.me/TotoroNK",
+                        "forum": "https://t.me/liaoke123",
                         "recovery": "https://sourceforge.net/projects/recovery-for-xiaomi-devices/files/mayfly/twrp-3.7.1_12-v9.0_A15-mayfly-skkk.img/download",
                         "paypal": "https://www.paypal.me/dopaemon",
                         "telegram": "https://t.me/KernelPanix"
