@@ -1,21 +1,25 @@
 {
-        "response": [
-                {
-                        "maintainer": "liaoke",
-                        "oem": "Xiaomi",
-                        "device": "mayfly",
-                        "filename": "RisingOS_Revived-8.1-250822-0106-GAPPS-UNOFFICIAL-mayfly-ota.zip",
-                        "download": "https://sourceforge.net/projects/mayfly-rom/files/risingos/RisingOS_Revived-8.1-250822-0106-GAPPS-UNOFFICIAL-mayfly-ota.zip/download",
-                        "timestamp": 1755795641,
-                        "md5": "781787b77490c6dcf44ed7f2cf2ae36a",
-                        "sha256": "9231eb468ab9c46e14cf6341d94e828de784bedbd374fe350bd8925cc60dc09d",
-                        "size": 3085336764,
-                        "version": "8.1-Arete",
-                        "buildtype": "STABLE",
-                        "forum": "https://t.me/TotoroNK",
-                        "recovery": "https://sourceforge.net/projects/recovery-for-xiaomi-devices/files/mayfly/twrp-3.7.1_12-v9.0_A15-mayfly-skkk.img/download",
-                        "paypal": "https://www.paypal.me/liaoke321",
-                        "telegram": "https://t.me/liaoke123"
-                }
-        ]
+
+	"response": [
+
+		{
+			"maintainer": "liaoke",
+			"oem": "Xiaomi",
+			"device": "mayfly",
+			"filename": "RisingOS_Revived-8.1-250821-1636-GAPPS-UNOFFICIAL-mayfly-ota.zip",
+			"download": "https://sourceforge.net/projects/mayfly-rom/files/risingos/RisingOS_Revived-8.1-250821-1636-GAPPS-UNOFFICIAL-mayfly-ota.zip/download",
+			"timestamp": 1755765101,
+			"md5": "bdad235f813c7003bff40ad55a4be10d",
+			"sha256": "2fc85db3e7a6fba9a79cb7f1ec3b656fe476c428caccfa237ce8028e00ac87f0",
+			"size": 3085325279,
+			"version": "8.1-Arete",
+			"buildtype": "STABLE",
+			"forum": "https://t.me/TotoroNK",
+			"recovery": "https://sourceforge.net/projects/recovery-for-xiaomi-devices/files/mayfly/twrp-3.7.1_12-v9.0_A15-mayfly-skkk.img/download",
+			"paypal": "https://www.paypal.me/liaoke321",
+			"telegram": "https://t.me/liaoke123"
+		}
+
+	]
+
 }
