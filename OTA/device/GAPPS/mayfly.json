@@ -1,20 +1,21 @@
 {
-        "response": [
-                {
-                        "maintainer": "liaoke",
-                        "oem": "Xiaomi",
-                        "device": "mayfly",
-			"filename": "RisingOS_Revived-8.0-250804-2253-GAPPS-UNOFFICIAL-mayfly-ota.zip",
-			"download": "https://sourceforge.net/projects/mayfly-rom/files/risingos/RisingOS_Revived-8.0-250804-2253-GAPPS-UNOFFICIAL-mayfly-ota.zip/download",
-			"timestamp": 1754317392,
-			"md5": "1f0cd30c354d57137ca98054b96c6183",
-			"sha256": "a557ee2928db138a77ea7e2d463698087554419fe574bbef00e2cfe352dbb3a6",
-			"size": 3031642790,
-                        "version": "8.0-Zorya",
-                        "buildtype": "STABLE",
-                        "forum": "https://t.me/Xiaomi12sDiscussion",
-                        "recovery": "https://sourceforge.net/projects/mayfly-rom/files/%5BREC%5D3.7.1_12-Mi12S_v9.0_A15-mayfly-skkk.img/download",
-                        "telegram": "https://t.me/liaoke123"
-                }
-        ]
+	"response": [
+		{
+			"maintainer": "liaoke",
+			"oem": "Xiaomi",
+			"device": "mayfly",
+			"filename": "RisingOS_Revived-8.1-250821-1636-GAPPS-UNOFFICIAL-mayfly-ota.zip",
+			"download": "",
+			"timestamp": 1755765101,
+			"md5": "bdad235f813c7003bff40ad55a4be10d",
+			"sha256": "2fc85db3e7a6fba9a79cb7f1ec3b656fe476c428caccfa237ce8028e00ac87f0",
+			"size": 3085325279,
+			"version": "8.1-Arete",
+			"buildtype": "STABLE",
+			"forum": "https://t.me/TotoroNK",
+			"recovery": "https://sourceforge.net/projects/recovery-for-xiaomi-devices/files/mayfly/twrp-3.7.1_12-v9.0_A15-mayfly-skkk.img/download",
+			"paypal": "https://www.paypal.me/liaoke321",
+			"telegram": "https://t.me/liaoke123"
+		}
+	]
 }
